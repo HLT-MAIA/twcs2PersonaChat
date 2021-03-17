@@ -81,7 +81,7 @@ def preprocessCSV(
 @click.option(
     "--in_filename", default="twitter_corpora/twitter/twcs.csv", help="CSV filename"
 )
-def extractMetadata(filename: str) -> None:
+def extractMetadata(in_filename: str) -> None:
     getMetadata(in_filename)
 
 
