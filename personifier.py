@@ -102,7 +102,10 @@ def rebuild_conversations(boc_df, dataframe):
                 Utterance(speaker, text)
                 for speaker, text in zip(replies["author_id"], replies["text"])
             ]
-            current_tweet = replies.iloc[-1]
+            try:
+                current_tweet = replies.iloc[-1]
+            except IndexError:
+                break
 
         brand_mentions = get_brand_mentions(
             "\n".join([utterance.text for utterance in conversation.utterances])
