@@ -199,7 +199,9 @@ def generate_personachat_json(
         json.dump(final_dic, outfile, indent=4)
 
 
-def personify(df, filename, brand, limit):
+def personify(in_filename, out_filename, brand, limit):
+    preprocessed = pd.read_csv(input_filename)
+
     boc_df = get_begin_of_conversation(df)
     if brand:
         conversations = rebuild_conversations(filter_brand_bocs(boc_df, brand), df)

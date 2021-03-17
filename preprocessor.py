@@ -5,9 +5,14 @@ import random
 import json
 import copy
 import re
+from multiprocessing import Pool
+from functools import partial
+import os
+from tqdm.contrib.concurrent import process_map
 
 import nltk
-import spacy
+
+# import spacy
 import string
 from spellchecker import SpellChecker
 from tqdm import tqdm
@@ -44,6 +49,8 @@ def tag_urls(text):
 
 
 def remove_html_tags(text):
+    text = text.replace("&lt;", "<")
+    text = text.replace("&gt;", ">")
     html_pattern = re.compile("<.*?>")
     return html_pattern.sub(r"", text)
 
@@ -58,6 +65,7 @@ def convert_acronyms(text):
     return " ".join(new_text)
 
 
+"""
 def correct_spelling(text):
     corrected_text = []
     misspelled_words = spell.unknown(text.split())
@@ -66,6 +74,19 @@ def correct_spelling(text):
             corrected_text.append(spell.correction(word))
         else:
             corrected_text.append(word)
+    return " ".join(corrected_text)
+"""
+
+
+def correct_spelling(text):
+    split_text = text.split()
+    misspelled_words = set(spell.unknown(split_text))
+
+    for i, word in enumerate(split_text):
+        if word in misspelled_words:
+            split_text[i] = spell.correction(word)
+
+    return " ".join(split_text)
 
 
 def tag_usernames(text):
@@ -75,32 +96,64 @@ def tag_usernames(text):
 
 
 def preprocess(
-    df, emojis, emoticons, urls, html_tags, acronyms, spelling, usernames,
+    in_filename,
+    out_filename,
+    emojis,
+    emoticons,
+    urls,
+    html_tags,
+    acronyms,
+    spelling,
+    usernames,
+    max_workers,
+    chunksize,
 ):
-    if emojis:
-        print("Removing emojis...")
-        df["text"] = df["text"].progress_apply(lambda text: remove_emojis(text))
-    if emoticons:
-        print("Removing emoticons...")
-        df["text"] = df["text"].progress_apply(lambda text: remove_emoticons(text))
+    df = pd.read_csv(in_filename)
+
+    if chunksize == -1:
+        if df.shape[0] < 1000:
+            chunksize = 1
+        else:
+            chunksize = min(df.shape[0] // max_workers, 1000)
+
     if html_tags:
         print("Removing html tags...")
-        df["text"] = df["text"].progress_apply(lambda text: remove_html_tags(text))
+        df["text"] = process_map(
+            remove_html_tags, df["text"], max_workers=max_workers, chunksize=chunksize
+        )
     if urls:
         print("Tagging URLs...")
-        df["text"] = df["text"].progress_apply(lambda text: tag_urls(text))
+        df["text"] = process_map(
+            tag_urls, df["text"], max_workers=max_workers, chunksize=chunksize
+        )
     if usernames:
         print("Tagging usernames...")
-        df["text"] = df["text"].progress_apply(lambda text: tag_usernames(text))
+        df["text"] = process_map(
+            tag_usernames, df["text"], max_workers=max_workers, chunksize=chunksize
+        )
     if acronyms:
         print("Converting acronyms...")
-        df["text"] = df["text"].progress_apply(lambda text: convert_acronyms(text))
+        df["text"] = process_map(
+            convert_acronyms, df["text"], max_workers=max_workers, chunksize=chunksize
+        )
+    if emojis:
+        print("Removing emojis...")
+        df["text"] = process_map(
+            remove_emojis, df["text"], max_workers=max_workers, chunksize=chunksize
+        )
+    if emoticons:
+        print("Removing emoticons...")
+        df["text"] = process_map(
+            remove_emoticons, df["text"], max_workers=max_workers, chunksize=chunksize
+        )
     if spelling:
-        print("Spellchecking...")
-        df["text"] = df["text"].progress_apply(lambda text: correct_spelling(text))
+        print("Spellchecking (it takes a while)...")
+        df["text"] = process_map(
+            correct_spelling, df["text"], max_workers=max_workers, chunksize=chunksize
+        )
 
     df.to_csv(
-        r"/afs/l2f/home/gnvm/lightning-convai/data/preprocessed.csv",
+        out_filename,
         index=False,
         header=True,
     )

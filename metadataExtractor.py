@@ -23,7 +23,9 @@ def count_brand_mentions(tweets):
     return sorted(brands.items(), key=lambda kv: kv[1], reverse=True)
 
 
-def getMetadata(df):
+def getMetadata(in_filename):
+    df = pd.read_csv(filename)
+
     print("Number of turns: {}".format(len(df)))
     brand2count = count_brand_mentions(df["text"].tolist())
     print("Number of mentions of top 20 brands:")
