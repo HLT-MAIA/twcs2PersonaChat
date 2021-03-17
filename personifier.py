@@ -173,11 +173,11 @@ def generate_personachat_json(
         if len(entries) == limit:
             break
 
-        entry = {"personality": [], "utterances": []}
+        entry = {"personality": [conversation.brand], "utterances": []}
         utterances = []
 
         for i in range(1, len(conversation.utterances)):
-            if conversation.utterances[i].speaker == "XboxSupport":
+            if conversation.utterances[i].speaker == conversation.brand:
                 dic = {
                     "candidates": [],
                     "history": [
