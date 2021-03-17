@@ -5,9 +5,6 @@ import random
 import json
 import copy
 import re
-from multiprocessing import Pool
-from functools import partial
-import os
 from tqdm.contrib.concurrent import process_map
 
 import nltk
