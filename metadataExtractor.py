@@ -24,7 +24,7 @@ def count_brand_mentions(tweets):
 
 
 def getMetadata(in_filename):
-    df = pd.read_csv(filename)
+    df = pd.read_csv(in_filename)
 
     print("Number of turns: {}".format(len(df)))
     brand2count = count_brand_mentions(df["text"].tolist())
