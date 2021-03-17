@@ -200,7 +200,7 @@ def generate_personachat_json(
 
 
 def personify(in_filename, out_filename, brand, limit):
-    preprocessed = pd.read_csv(in_filename)
+    df = pd.read_csv(in_filename)
 
     boc_df = get_begin_of_conversation(df)
     if brand:
