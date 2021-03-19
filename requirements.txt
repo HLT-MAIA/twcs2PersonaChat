@@ -1,0 +1,5 @@
+click
+langdetect
+nltk
+pandas
+pyspellchecker

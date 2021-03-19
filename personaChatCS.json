@@ -1,0 +1,678 @@
+{
+    "train": [
+        {
+            "personality": [
+                "AppleSupport"
+            ],
+            "utterances": [
+                {
+                    "candidates": [
+                        "@Tesco The point is if it's enforced they do it properly or they don't. Plus take some common-sense and think does that person look over 18?",
+                        "@105851 We'd like to provide some assistance with this. Tell us more about the issue you're experiencing in DM. We'll go from there. (URL",
+                        "@105838 @AppleSupport Me too am suffering , hope the can find a solution",
+                        "@southwestair Just curious....will I get the companion pass the exact moment I get enough points? It will I have to wait? Thanks!",
+                        "@105838 @AppleSupport Me too am suffering , hope the can find a solution",
+                        "@105851 We'd like to provide some assistance with this. Tell us more about the issue you're experiencing in DM. We'll go from there. (URL",
+                        "@105848 Let's take a look. What is the exact iOS you're using? Are you using any specific apps when noticing this? DM us your reply. (URL",
+                        "@76501 I guess this means free cable for the neighborhood. (URL",
+                        "@105857 We'd like to help if we can. When did this start happening? Which version of iOS are you running currently?",
+                        "@O2 I received this a few weeks ago, since then I've been getting 2/3 calls a day from a telemarketer. Is someone using your name? (URL",
+                        "@105837 We can help. Which version of iOS are you on? You can find that in Settings > General > About. Reply in DM. (URL"
+                    ],
+                    "history": [
+                        "@AppleSupport hi #apple, I\u2019ve a concern about the latest ios is too slow on #iphone6 and i am not happy with it. Any solution please?",
+                        "@105838 @AppleSupport Me too am suffering , hope the can find a solution"
+                    ]
+                }
+            ]
+        },
+        {
+            "personality": [
+                "SpotifyCares"
+            ],
+            "utterances": [
+                {
+                    "candidates": [
+                        "@SpotifyCares No, but I've moved speaker to about 1 metre away and it's not skipping at the mo - it was about 3 or 4 metres away before. Fingers crossed!",
+                        "@Ask_Spectrum It's just in my yard. I've called 4-5 times in 6 weeks. I'm not a customer but it's pretty tempting. I do have some coaxial",
+                        "@AppleSupport I need a new code for my I-store. I haven\u2019t recd any but msg is too many sent. Help!",
+                        "My apps stop working without warning and my phone freezes every five minutes! Love the new update @76099!!!!",
+                        "@105852 Are you experiencing an issue with your device? If so, DM us with what's going on. We'll see how we can help from there. (URL",
+                        "@AppleSupport I need a new code for my I-store. I haven\u2019t recd any but msg is too many sent. Help!",
+                        "@105842 We're sorry your flight has been delayed, Beatner. Are you travelling on the BA8733? If so, the updated departure time we have is 150. 1/2",
+                        "@AppleSupport causing the reply to be disregarded and the tapped notification under the keyboard is opened",
+                        "@SpotifyCares i've been having issues with playback. songs have been stopping midway through and won't restart unless i close and reopen app",
+                        "@AppleSupport causing the reply to be disregarded and the tapped notification under the keyboard is opened",
+                        "@105840 Hi there! What device is this happening on? If you could also let us know the Android and Spotify versions you're using, that'd be great /AY"
+                    ],
+                    "history": [
+                        "@76495 @91226 Please help! Spotify Premium skipping through songs constantly on android tablet &amp; bluetooth speaker. Tried everything!"
+                    ]
+                },
+                {
+                    "candidates": [
+                        "@105858 Hi Agoura, thanks for tweeting. Please refer to this article: (URL &amp; click the link to reply back. ^Rashmi (URL",
+                        "@AppleSupport causing the reply to be disregarded and the tapped notification under the keyboard is opened",
+                        "@105840 Thanks. The distance could possibly affect playback. Does logging out > restarting your device > logging back in make a difference? /AY",
+                        "@105855 Hi Thomas, this is correct but this helps our store colleagues judge age and protect them from making underage sales. Amanda",
+                        "@76495 @91226 Please help! Spotify Premium skipping through songs constantly on android tablet &amp; bluetooth speaker. Tried everything!",
+                        "@76501 I guess this means free cable for the neighborhood. (URL",
+                        "@105847 Thanks for giving us a nudge about this. What device, operating system, and Spotify version is this happening on? /AY",
+                        "@SouthwestAir I am! Thank you for the answer!!",
+                        "@AppleSupport I have the latest version iOS. It started immediately after I updated my phone.",
+                        "@SpotifyCares Brilliant thanks ",
+                        "@105840 Thanks. The distance could possibly affect playback. Does logging out > restarting your device > logging back in make a difference? /AY"
+                    ],
+                    "history": [
+                        "@76495 @91226 Please help! Spotify Premium skipping through songs constantly on android tablet &amp; bluetooth speaker. Tried everything!",
+                        "@105840 Hi there! What device is this happening on? If you could also let us know the Android and Spotify versions you're using, that'd be great /AY",
+                        "@SpotifyCares Thanks! Version 8.4.22.857 armv7 on anker bluetooth speaker on Samsung Galaxy Tab A (2016 Model SM-T280 Does distance from speaker matter?"
+                    ]
+                },
+                {
+                    "candidates": [
+                        "@82476 \ud83e\udd14 We'd like to help Sam, which number is calling you? Please DM us more info so we can advise further. (URL",
+                        "@105857 We'd like to help if we can. When did this start happening? Which version of iOS are you running currently?",
+                        "@105840 Hi there! What device is this happening on? If you could also let us know the Android and Spotify versions you're using, that'd be great /AY",
+                        "@AppleSupport Latest version  I have read the help page turned off virtually all apps and location svs too - but in typing this I dropped 3% life",
+                        "@76099 @AppleSupport fix this update. It\u2019s horrible",
+                        "Got id's @Tesco for buying one Adnams Broadside. Is being blind part of the job-spec? I am 35 and 99 kilos.",
+                        "@105837 We can help. Which version of iOS are you on? You can find that in Settings > General > About. Reply in DM. (URL",
+                        "@105841 We'd love to help! Please DM us and let us know any steps you've tried since experiencing these behaviors. (URL",
+                        "@105841 We'd love to help! Please DM us and let us know any steps you've tried since experiencing these behaviors. (URL",
+                        "@AppleSupport causing the reply to be disregarded and the tapped notification under the keyboard is opened",
+                        "@105840 That's great to hear. If anything comes up, just let us know. We'll carry on helping out  /AY"
+                    ],
+                    "history": [
+                        "@76495 @91226 Please help! Spotify Premium skipping through songs constantly on android tablet &amp; bluetooth speaker. Tried everything!",
+                        "@105840 Hi there! What device is this happening on? If you could also let us know the Android and Spotify versions you're using, that'd be great /AY",
+                        "@SpotifyCares Thanks! Version 8.4.22.857 armv7 on anker bluetooth speaker on Samsung Galaxy Tab A (2016 Model SM-T280 Does distance from speaker matter?",
+                        "@105840 Thanks. The distance could possibly affect playback. Does logging out > restarting your device > logging back in make a difference? /AY",
+                        "@SpotifyCares No, but I've moved speaker to about 1 metre away and it's not skipping at the mo - it was about 3 or 4 metres away before. Fingers crossed!"
+                    ]
+                },
+                {
+                    "candidates": [
+                        "@105842 We're sorry your flight has been delayed, Beatner. Are you travelling on the BA8733? If so, the updated departure time we have is 150. 1/2",
+                        "First flight for long time with @British_Airways. Now over one 1h delay for the short jump FRA-LCY and NO one here to provide status updates",
+                        "@105842 We're sorry your flight has been delayed, Beatner. Are you travelling on the BA8733? If so, the updated departure time we have is 150. 1/2",
+                        "@105857 We'd like to help if we can. When did this start happening? Which version of iOS are you running currently?",
+                        "@AppleSupport #ios11update - is still killing my battery within 12 hours - phone is 10 months old - it\u2019s a disgrace - used to get 2 days",
+                        "@HPSupport Problem with printhead Serial# TH536D1HN #hpcswus #hpprnt",
+                        "@105840 Thanks. The distance could possibly affect playback. Does logging out > restarting your device > logging back in make a difference? /AY",
+                        "My apps stop working without warning and my phone freezes every five minutes! Love the new update @76099!!!!",
+                        "@105847 Thanks for giving us a nudge about this. What device, operating system, and Spotify version is this happening on? /AY",
+                        "@105850 Once the points load and you hit the number, you get it immediately! You'll even receive a congrats email. Are you almost there? ^AC",
+                        "@105840 You're welcome! If there's anything else we can help with, just give us a shout. We're here for you  /CP"
+                    ],
+                    "history": [
+                        "@76495 @91226 Please help! Spotify Premium skipping through songs constantly on android tablet &amp; bluetooth speaker. Tried everything!",
+                        "@105840 Hi there! What device is this happening on? If you could also let us know the Android and Spotify versions you're using, that'd be great /AY",
+                        "@SpotifyCares Thanks! Version 8.4.22.857 armv7 on anker bluetooth speaker on Samsung Galaxy Tab A (2016 Model SM-T280 Does distance from speaker matter?",
+                        "@105840 Thanks. The distance could possibly affect playback. Does logging out > restarting your device > logging back in make a difference? /AY",
+                        "@SpotifyCares No, but I've moved speaker to about 1 metre away and it's not skipping at the mo - it was about 3 or 4 metres away before. Fingers crossed!",
+                        "@105840 That's great to hear. If anything comes up, just let us know. We'll carry on helping out  /AY",
+                        "@SpotifyCares Brilliant thanks "
+                    ]
+                }
+            ]
+        },
+        {
+            "personality": [
+                "AppleSupport"
+            ],
+            "utterances": [
+                {
+                    "candidates": [
+                        "@105841 We'd love to help! Please DM us and let us know any steps you've tried since experiencing these behaviors. (URL",
+                        "@105847 Got it. Can you try the steps here for us: (URL They should help with this. Let us know how it plays out /AY",
+                        "@105858 Hi Agoura, thanks for tweeting. Please refer to this article: (URL &amp; click the link to reply back. ^Rashmi (URL",
+                        "@Tesco Will I lose all the shopping I've done if I delete the cache/cookies (not using app?",
+                        "@105838 @AppleSupport Me too am suffering , hope the can find a solution",
+                        "@O2 I received this a few weeks ago, since then I've been getting 2/3 calls a day from a telemarketer. Is someone using your name? (URL",
+                        "@AppleSupport after the 11.0.2 my phone just sucks most of the apps are broken, wifi disconnects frequently #apple #ios1102 #painfulupdate",
+                        "@SpotifyCares i've been having issues with playback. songs have been stopping midway through and won't restart unless i close and reopen app",
+                        "@76099 @AppleSupport fix this update. It\u2019s horrible",
+                        "My apps stop working without warning and my phone freezes every five minutes! Love the new update @76099!!!!",
+                        "@105841 We'd love to help! Please DM us and let us know any steps you've tried since experiencing these behaviors. (URL"
+                    ],
+                    "history": [
+                        "@AppleSupport after the 11.0.2 my phone just sucks most of the apps are broken, wifi disconnects frequently #apple #ios1102 #painfulupdate"
+                    ]
+                }
+            ]
+        },
+        {
+            "personality": [
+                "British_Airways"
+            ],
+            "utterances": [
+                {
+                    "candidates": [
+                        "@76495 @91226 Please help! Spotify Premium skipping through songs constantly on android tablet &amp; bluetooth speaker. Tried everything!",
+                        "@AppleSupport I need a new code for my I-store. I haven\u2019t recd any but msg is too many sent. Help!",
+                        "@105841 We'd love to help! Please DM us and let us know any steps you've tried since experiencing these behaviors. (URL",
+                        "@105847 Hi Harry! Help's here. Can you check if logging out > restarting your device > logging back in makes a difference? Keep us posted /MU",
+                        "@105858 Hi Agoura, thanks for tweeting. Please refer to this article: (URL &amp; click the link to reply back. ^Rashmi (URL",
+                        "@southwestair Just curious....will I get the companion pass the exact moment I get enough points? It will I have to wait? Thanks!",
+                        "@105838 @AppleSupport Me too am suffering , hope the can find a solution",
+                        "@O2 I received this a few weeks ago, since then I've been getting 2/3 calls a day from a telemarketer. Is someone using your name? (URL",
+                        "@105855 Hi Thomas, if a colleague believes the person buying alcohol looks under 25, they will be challenged for ID to prove they're of age. - Paige",
+                        "@105840 Hi there! What device is this happening on? If you could also let us know the Android and Spotify versions you're using, that'd be great /AY",
+                        "@105842 We're sorry your flight has been delayed, Beatner. Are you travelling on the BA8733? If so, the updated departure time we have is 150. 1/2"
+                    ],
+                    "history": [
+                        "First flight for long time with @British_Airways. Now over one 1h delay for the short jump FRA-LCY and NO one here to provide status updates"
+                    ]
+                },
+                {
+                    "candidates": [
+                        "@Ask_Spectrum It's just in my yard. I've called 4-5 times in 6 weeks. I'm not a customer but it's pretty tempting. I do have some coaxial",
+                        "@105852 Are you experiencing an issue with your device? If so, DM us with what's going on. We'll see how we can help from there. (URL",
+                        "@SpotifyCares Brilliant thanks ",
+                        "@105857 We'd like to help if we can. When did this start happening? Which version of iOS are you running currently?",
+                        "Hey @Tesco, your website's broken. It's telling me there are no delivery slots for the next 3 weeks, which I find slightly unlikely.",
+                        "@AppleSupport Super help - problem solved  once again in love with Apple",
+                        "@105841 We'd love to help! Please DM us and let us know any steps you've tried since experiencing these behaviors. (URL",
+                        "@105841 We'd love to help! Please DM us and let us know any steps you've tried since experiencing these behaviors. (URL",
+                        "@AppleSupport hi #apple, I\u2019ve a concern about the latest ios is too slow on #iphone6 and i am not happy with it. Any solution please?",
+                        "@105841 We'd love to help! Please DM us and let us know any steps you've tried since experiencing these behaviors. (URL",
+                        "@105842 I appreciate it's after 150 now, so hopefully you will depart very soon. We're sorry for any inconvenience the delay has caused. 2/2 ^JR"
+                    ],
+                    "history": [
+                        "First flight for long time with @British_Airways. Now over one 1h delay for the short jump FRA-LCY and NO one here to provide status updates",
+                        "@105842 We're sorry your flight has been delayed, Beatner. Are you travelling on the BA8733? If so, the updated departure time we have is 150. 1/2"
+                    ]
+                },
+                {
+                    "candidates": [
+                        "@AppleSupport #ios11update - is still killing my battery within 12 hours - phone is 10 months old - it\u2019s a disgrace - used to get 2 days",
+                        "@105844 Thanks for reaching out to us. We are always happy to help. Send us a DM so we can look into this together. (URL",
+                        "@AppleSupport after the 11.0.2 my phone just sucks most of the apps are broken, wifi disconnects frequently #apple #ios1102 #painfulupdate",
+                        "Got id's @Tesco for buying one Adnams Broadside. Is being blind part of the job-spec? I am 35 and 99 kilos.",
+                        "@AppleSupport Latest version  I have read the help page turned off virtually all apps and location svs too - but in typing this I dropped 3% life",
+                        "@105842 I appreciate it's after 150 now, so hopefully you will depart very soon. We're sorry for any inconvenience the delay has caused. 2/2 ^JR",
+                        "@AppleSupport after the 11.0.2 my phone just sucks most of the apps are broken, wifi disconnects frequently #apple #ios1102 #painfulupdate",
+                        "@British_Airways Thanks for your answer. Response onsite was that Aircraft will not depart today, so rebooking to @105853 with now 4h delay...",
+                        "Hey @Tesco, your website's broken. It's telling me there are no delivery slots for the next 3 weeks, which I find slightly unlikely.",
+                        "@SpotifyCares It's on a Macbook Air (early 2014, running High Sierra, spotify version 1.0.65.320.gac7a8e02",
+                        "@105842 Very sorry to hear this. We hope you get everything sorted. Kind Regards ^Jools"
+                    ],
+                    "history": [
+                        "First flight for long time with @British_Airways. Now over one 1h delay for the short jump FRA-LCY and NO one here to provide status updates",
+                        "@105842 We're sorry your flight has been delayed, Beatner. Are you travelling on the BA8733? If so, the updated departure time we have is 150. 1/2",
+                        "@105842 I appreciate it's after 150 now, so hopefully you will depart very soon. We're sorry for any inconvenience the delay has caused. 2/2 ^JR",
+                        "@British_Airways Thanks for your answer. Response onsite was that Aircraft will not depart today, so rebooking to @105853 with now 4h delay..."
+                    ]
+                }
+            ]
+        },
+        {
+            "personality": [
+                "AppleSupport"
+            ],
+            "utterances": [
+                {
+                    "candidates": [
+                        "@AppleSupport Latest version  I have read the help page turned off virtually all apps and location svs too - but in typing this I dropped 3% life",
+                        "@HPSupport Problem with printhead Serial# TH536D1HN #hpcswus #hpprnt",
+                        "@SpotifyCares Brilliant thanks ",
+                        "@105855 Hi Thomas, if a colleague believes the person buying alcohol looks under 25, they will be challenged for ID to prove they're of age. - Paige",
+                        "@105854 I am sorry for the poor experience. Can you please DM the full service address and name on the account, as we ass... (URL",
+                        "@southwestair Just curious....will I get the companion pass the exact moment I get enough points? It will I have to wait? Thanks!",
+                        "@HPSupport Problem with printhead Serial# TH536D1HN #hpcswus #hpprnt",
+                        "@105844 We'd be happy to help. Send us a DM and we can start there. (URL",
+                        "@AppleSupport I have the latest version iOS. It started immediately after I updated my phone.",
+                        "@76099 @AppleSupport fix this update. It\u2019s horrible",
+                        "@105844 We'd be happy to help. Send us a DM and we can start there. (URL"
+                    ],
+                    "history": [
+                        "You\u2019ve paralysed my phone with your update @76099 grrrrrrrrrr"
+                    ]
+                },
+                {
+                    "candidates": [
+                        "@AppleSupport I have the latest version iOS. It started immediately after I updated my phone.",
+                        "@105854 I am sorry for the poor experience. Can you please DM the full service address and name on the account, as we ass... (URL",
+                        "@HPSupport Problem with printhead Serial# TH536D1HN #hpcswus #hpprnt",
+                        "@105840 Thanks. The distance could possibly affect playback. Does logging out > restarting your device > logging back in make a difference? /AY",
+                        "@105858 Hi Agoura, thanks for tweeting. Please refer to this article: (URL &amp; click the link to reply back. ^Rashmi (URL",
+                        "@SpotifyCares It's on a Macbook Air (early 2014, running High Sierra, spotify version 1.0.65.320.gac7a8e02",
+                        "@AppleSupport Can you get my iPhone 7plus back on the old iOS please? Battery runs out in half the time, apps now frequently crash.",
+                        "@AppleSupport causing the reply to be disregarded and the tapped notification under the keyboard is opened",
+                        "@105847 Sure thing. We'll keep an eye out for your update /MU",
+                        "@105856 Hi there, as long as you sign out of your account prior to deleting your cache &amp; cookies, you'll still have a full basket  Thanks - Mike",
+                        "@105844 Thanks for reaching out to us. We are always happy to help. Send us a DM so we can look into this together. (URL"
+                    ],
+                    "history": [
+                        "You\u2019ve paralysed my phone with your update @76099 grrrrrrrrrr",
+                        "@105844 We'd be happy to help. Send us a DM and we can start there. (URL",
+                        "@AppleSupport Can you get my iPhone 7plus back on the old iOS please? Battery runs out in half the time, apps now frequently crash."
+                    ]
+                }
+            ]
+        },
+        {
+            "personality": [
+                "O2"
+            ],
+            "utterances": [
+                {
+                    "candidates": [
+                        "@AppleSupport causing the reply to be disregarded and the tapped notification under the keyboard is opened",
+                        "@HPSupport Problem with printhead Serial# TH536D1HN #hpcswus #hpprnt",
+                        "@105854 I am sorry for the poor experience. Can you please DM the full service address and name on the account, as we ass... (URL",
+                        "@AppleSupport I need a new code for my I-store. I haven\u2019t recd any but msg is too many sent. Help!",
+                        "@AppleSupport #ios11update - is still killing my battery within 12 hours - phone is 10 months old - it\u2019s a disgrace - used to get 2 days",
+                        "@76495 @91226 Please help! Spotify Premium skipping through songs constantly on android tablet &amp; bluetooth speaker. Tried everything!",
+                        "@AppleSupport I need a new code for my I-store. I haven\u2019t recd any but msg is too many sent. Help!",
+                        "@AppleSupport Super help - problem solved  once again in love with Apple",
+                        "@105838 @AppleSupport Me too am suffering , hope the can find a solution",
+                        "@105855 Hi Thomas, this is correct but this helps our store colleagues judge age and protect them from making underage sales. Amanda",
+                        "@82476 \ud83e\udd14 We'd like to help Sam, which number is calling you? Please DM us more info so we can advise further. (URL"
+                    ],
+                    "history": [
+                        "@O2 I received this a few weeks ago, since then I've been getting 2/3 calls a day from a telemarketer. Is someone using your name? (URL"
+                    ]
+                }
+            ]
+        },
+        {
+            "personality": [
+                "SpotifyCares"
+            ],
+            "utterances": [
+                {
+                    "candidates": [
+                        "@Tesco Maybe hire colleagues who can see?",
+                        "@AppleSupport causing the reply to be disregarded and the tapped notification under the keyboard is opened",
+                        "@76099 @AppleSupport fix this update. It\u2019s horrible",
+                        "@AppleSupport Latest version  I have read the help page turned off virtually all apps and location svs too - but in typing this I dropped 3% life",
+                        "@105855 Hi Thomas, we operate a Think 25 policy at our stores. I'd be flattered to be ID'd.  - Helena",
+                        "@105850 Once the points load and you hit the number, you get it immediately! You'll even receive a congrats email. Are you almost there? ^AC",
+                        "@105848 Let's take a look. What is the exact iOS you're using? Are you using any specific apps when noticing this? DM us your reply. (URL",
+                        "@Tesco The point is if it's enforced they do it properly or they don't. Plus take some common-sense and think does that person look over 18?",
+                        "Got id's @Tesco for buying one Adnams Broadside. Is being blind part of the job-spec? I am 35 and 99 kilos.",
+                        "@AppleSupport Can you get my iPhone 7plus back on the old iOS please? Battery runs out in half the time, apps now frequently crash.",
+                        "@105847 Hi Harry! Help's here. Can you check if logging out > restarting your device > logging back in makes a difference? Keep us posted /MU"
+                    ],
+                    "history": [
+                        "@SpotifyCares i've been having issues with playback. songs have been stopping midway through and won't restart unless i close and reopen app"
+                    ]
+                },
+                {
+                    "candidates": [
+                        "@105842 Very sorry to hear this. We hope you get everything sorted. Kind Regards ^Jools",
+                        "@AppleSupport I need a new code for my I-store. I haven\u2019t recd any but msg is too many sent. Help!",
+                        "@HPSupport Problem with printhead Serial# TH536D1HN #hpcswus #hpprnt",
+                        "@105850 Once the points load and you hit the number, you get it immediately! You'll even receive a congrats email. Are you almost there? ^AC",
+                        "@76099 @AppleSupport fix this update. It\u2019s horrible",
+                        "@82476 \ud83e\udd14 We'd like to help Sam, which number is calling you? Please DM us more info so we can advise further. (URL",
+                        "@105838 @AppleSupport Me too am suffering , hope the can find a solution",
+                        "@82476 \ud83e\udd14 We'd like to help Sam, which number is calling you? Please DM us more info so we can advise further. (URL",
+                        "@105856 Can you DM me your full name, address and email? I'd be happy to look into this further for you  Thanks - Mike",
+                        "@105856 Can you DM me your full name, address and email? I'd be happy to look into this further for you  Thanks - Mike",
+                        "@105847 Sure thing. We'll keep an eye out for your update /MU"
+                    ],
+                    "history": [
+                        "@SpotifyCares i've been having issues with playback. songs have been stopping midway through and won't restart unless i close and reopen app",
+                        "@105847 Hi Harry! Help's here. Can you check if logging out > restarting your device > logging back in makes a difference? Keep us posted /MU",
+                        "@SpotifyCares seems to be working at this stage. Will let you know if it happens again. Cheers"
+                    ]
+                },
+                {
+                    "candidates": [
+                        "@105837 We can help. Which version of iOS are you on? You can find that in Settings > General > About. Reply in DM. (URL",
+                        "@Tesco Maybe hire colleagues who can see?",
+                        "@Tesco Will I lose all the shopping I've done if I delete the cache/cookies (not using app?",
+                        "@105854 I am sorry for the poor experience. Can you please DM the full service address and name on the account, as we ass... (URL",
+                        "@82476 \ud83e\udd14 We'd like to help Sam, which number is calling you? Please DM us more info so we can advise further. (URL",
+                        "@105856 Hi there, as long as you sign out of your account prior to deleting your cache &amp; cookies, you'll still have a full basket  Thanks - Mike",
+                        "@Tesco Will I lose all the shopping I've done if I delete the cache/cookies (not using app?",
+                        "@105844 We'd be happy to help. Send us a DM and we can start there. (URL",
+                        "@105851 We'd like to provide some assistance with this. Tell us more about the issue you're experiencing in DM. We'll go from there. (URL",
+                        "Hey @Tesco, your website's broken. It's telling me there are no delivery slots for the next 3 weeks, which I find slightly unlikely.",
+                        "@105847 Thanks for giving us a nudge about this. What device, operating system, and Spotify version is this happening on? /AY"
+                    ],
+                    "history": [
+                        "@SpotifyCares i've been having issues with playback. songs have been stopping midway through and won't restart unless i close and reopen app",
+                        "@105847 Hi Harry! Help's here. Can you check if logging out > restarting your device > logging back in makes a difference? Keep us posted /MU",
+                        "@SpotifyCares seems to be working at this stage. Will let you know if it happens again. Cheers",
+                        "@105847 Sure thing. We'll keep an eye out for your update /MU",
+                        "@SpotifyCares problem has come back again today. is there some kind of bug?"
+                    ]
+                },
+                {
+                    "candidates": [
+                        "@105857 Is there a particular app that seems to cause these issues more than others? What model iPhone are you using? Join us in DM. (URL",
+                        "@105858 Hi Agoura, thanks for tweeting. Please refer to this article: (URL &amp; click the link to reply back. ^Rashmi (URL",
+                        "@105842 Very sorry to hear this. We hope you get everything sorted. Kind Regards ^Jools",
+                        "@SpotifyCares i've been having issues with playback. songs have been stopping midway through and won't restart unless i close and reopen app",
+                        "@105842 Very sorry to hear this. We hope you get everything sorted. Kind Regards ^Jools",
+                        "@AppleSupport Latest version  I have read the help page turned off virtually all apps and location svs too - but in typing this I dropped 3% life",
+                        "@AppleSupport causing the reply to be disregarded and the tapped notification under the keyboard is opened",
+                        "@HPSupport Problem with printhead Serial# TH536D1HN #hpcswus #hpprnt",
+                        "@105856 Hi there, as long as you sign out of your account prior to deleting your cache &amp; cookies, you'll still have a full basket  Thanks - Mike",
+                        "@Tesco Maybe hire colleagues who can see?",
+                        "@105847 Got it. Can you try the steps here for us: (URL They should help with this. Let us know how it plays out /AY"
+                    ],
+                    "history": [
+                        "@SpotifyCares i've been having issues with playback. songs have been stopping midway through and won't restart unless i close and reopen app",
+                        "@105847 Hi Harry! Help's here. Can you check if logging out > restarting your device > logging back in makes a difference? Keep us posted /MU",
+                        "@SpotifyCares seems to be working at this stage. Will let you know if it happens again. Cheers",
+                        "@105847 Sure thing. We'll keep an eye out for your update /MU",
+                        "@SpotifyCares problem has come back again today. is there some kind of bug?",
+                        "@105847 Thanks for giving us a nudge about this. What device, operating system, and Spotify version is this happening on? /AY",
+                        "@SpotifyCares It's on a Macbook Air (early 2014, running High Sierra, spotify version 1.0.65.320.gac7a8e02"
+                    ]
+                }
+            ]
+        },
+        {
+            "personality": [
+                "AppleSupport"
+            ],
+            "utterances": [
+                {
+                    "candidates": [
+                        "@105857 Is there a particular app that seems to cause these issues more than others? What model iPhone are you using? Join us in DM. (URL",
+                        "@105851 We'd like to provide some assistance with this. Tell us more about the issue you're experiencing in DM. We'll go from there. (URL",
+                        "@76099 @AppleSupport fix this update. It\u2019s horrible",
+                        "@105848 Let's take a look. What is the exact iOS you're using? Are you using any specific apps when noticing this? DM us your reply. (URL",
+                        "@AppleSupport Latest version  I have read the help page turned off virtually all apps and location svs too - but in typing this I dropped 3% life",
+                        "First flight for long time with @British_Airways. Now over one 1h delay for the short jump FRA-LCY and NO one here to provide status updates",
+                        "@AppleSupport after the 11.0.2 my phone just sucks most of the apps are broken, wifi disconnects frequently #apple #ios1102 #painfulupdate",
+                        "@105842 Very sorry to hear this. We hope you get everything sorted. Kind Regards ^Jools",
+                        "@105844 We'd be happy to help. Send us a DM and we can start there. (URL",
+                        "@SpotifyCares Brilliant thanks ",
+                        "@105848 Let's take a look. What is the exact iOS you're using? Are you using any specific apps when noticing this? DM us your reply. (URL"
+                    ],
+                    "history": [
+                        "@AppleSupport #ios11update - is still killing my battery within 12 hours - phone is 10 months old - it\u2019s a disgrace - used to get 2 days"
+                    ]
+                }
+            ]
+        },
+        {
+            "personality": [
+                "AppleSupport"
+            ],
+            "utterances": [
+                {
+                    "candidates": [
+                        "@AppleSupport hi #apple, I\u2019ve a concern about the latest ios is too slow on #iphone6 and i am not happy with it. Any solution please?",
+                        "@AppleSupport after the 11.0.2 my phone just sucks most of the apps are broken, wifi disconnects frequently #apple #ios1102 #painfulupdate",
+                        "@Tesco The point is if it's enforced they do it properly or they don't. Plus take some common-sense and think does that person look over 18?",
+                        "@105847 Thanks for giving us a nudge about this. What device, operating system, and Spotify version is this happening on? /AY",
+                        "@AppleSupport causing the reply to be disregarded and the tapped notification under the keyboard is opened",
+                        "@AppleSupport #ios11update - is still killing my battery within 12 hours - phone is 10 months old - it\u2019s a disgrace - used to get 2 days",
+                        "@SpotifyCares It's on a Macbook Air (early 2014, running High Sierra, spotify version 1.0.65.320.gac7a8e02",
+                        "@105841 We'd love to help! Please DM us and let us know any steps you've tried since experiencing these behaviors. (URL",
+                        "@AppleSupport #ios11update - is still killing my battery within 12 hours - phone is 10 months old - it\u2019s a disgrace - used to get 2 days",
+                        "@Tesco Done all that. Still telling me there are no delivery slots whatsoever.",
+                        "@105851 We'd like to provide some assistance with this. Tell us more about the issue you're experiencing in DM. We'll go from there. (URL"
+                    ],
+                    "history": [
+                        "@AppleSupport I need a new code for my I-store. I haven\u2019t recd any but msg is too many sent. Help!"
+                    ]
+                }
+            ]
+        },
+        {
+            "personality": [
+                "AppleSupport"
+            ],
+            "utterances": [
+                {
+                    "candidates": [
+                        "@Tesco Done all that. Still telling me there are no delivery slots whatsoever.",
+                        "@105858 Hi Agoura, thanks for tweeting. Please refer to this article: (URL &amp; click the link to reply back. ^Rashmi (URL",
+                        "@105852 Are you experiencing an issue with your device? If so, DM us with what's going on. We'll see how we can help from there. (URL",
+                        "@AppleSupport causing the reply to be disregarded and the tapped notification under the keyboard is opened",
+                        "@105842 Very sorry to hear this. We hope you get everything sorted. Kind Regards ^Jools",
+                        "@105842 I appreciate it's after 150 now, so hopefully you will depart very soon. We're sorry for any inconvenience the delay has caused. 2/2 ^JR",
+                        "@105850 Once the points load and you hit the number, you get it immediately! You'll even receive a congrats email. Are you almost there? ^AC",
+                        "@105854 I am sorry for the poor experience. Can you please DM the full service address and name on the account, as we ass... (URL",
+                        "@76501 I guess this means free cable for the neighborhood. (URL",
+                        "@HPSupport Problem with printhead Serial# TH536D1HN #hpcswus #hpprnt",
+                        "@105852 Are you experiencing an issue with your device? If so, DM us with what's going on. We'll see how we can help from there. (URL"
+                    ],
+                    "history": [
+                        "@76099 @AppleSupport fix this update. It\u2019s horrible"
+                    ]
+                }
+            ]
+        },
+        {
+            "personality": [
+                "Ask_Spectrum"
+            ],
+            "utterances": [
+                {
+                    "candidates": [
+                        "@Ask_Spectrum It's just in my yard. I've called 4-5 times in 6 weeks. I'm not a customer but it's pretty tempting. I do have some coaxial",
+                        "@HPSupport Problem with printhead Serial# TH536D1HN #hpcswus #hpprnt",
+                        "Got id's @Tesco for buying one Adnams Broadside. Is being blind part of the job-spec? I am 35 and 99 kilos.",
+                        "@105847 Sure thing. We'll keep an eye out for your update /MU",
+                        "@76099 @AppleSupport fix this update. It\u2019s horrible",
+                        "@105841 We'd love to help! Please DM us and let us know any steps you've tried since experiencing these behaviors. (URL",
+                        "@105858 Hi Agoura, thanks for tweeting. Please refer to this article: (URL &amp; click the link to reply back. ^Rashmi (URL",
+                        "@105856 Hi there, could you try deleting your cache and cookies and reinstalling the app if using it? This should fix the issue  - Dani",
+                        "@105847 Sure thing. We'll keep an eye out for your update /MU",
+                        "@Tesco Will I lose all the shopping I've done if I delete the cache/cookies (not using app?",
+                        "@105854 I am sorry for the poor experience. Can you please DM the full service address and name on the account, as we ass... (URL"
+                    ],
+                    "history": [
+                        "@76501 I guess this means free cable for the neighborhood. (URL"
+                    ]
+                }
+            ]
+        },
+        {
+            "personality": [
+                "Tesco"
+            ],
+            "utterances": [
+                {
+                    "candidates": [
+                        "@SouthwestAir I am! Thank you for the answer!!",
+                        "@SpotifyCares Thanks! Version 8.4.22.857 armv7 on anker bluetooth speaker on Samsung Galaxy Tab A (2016 Model SM-T280 Does distance from speaker matter?",
+                        "@AppleSupport #ios11update - is still killing my battery within 12 hours - phone is 10 months old - it\u2019s a disgrace - used to get 2 days",
+                        "@105842 I appreciate it's after 150 now, so hopefully you will depart very soon. We're sorry for any inconvenience the delay has caused. 2/2 ^JR",
+                        "@105857 Is there a particular app that seems to cause these issues more than others? What model iPhone are you using? Join us in DM. (URL",
+                        "@105855 Hi Thomas, if a colleague believes the person buying alcohol looks under 25, they will be challenged for ID to prove they're of age. - Paige",
+                        "@Tesco Done all that. Still telling me there are no delivery slots whatsoever.",
+                        "@105842 I appreciate it's after 150 now, so hopefully you will depart very soon. We're sorry for any inconvenience the delay has caused. 2/2 ^JR",
+                        "@105841 We'd love to help! Please DM us and let us know any steps you've tried since experiencing these behaviors. (URL",
+                        "@HPSupport Problem with printhead Serial# TH536D1HN #hpcswus #hpprnt",
+                        "@105855 Hi Thomas, we operate a Think 25 policy at our stores. I'd be flattered to be ID'd.  - Helena"
+                    ],
+                    "history": [
+                        "Got id's @Tesco for buying one Adnams Broadside. Is being blind part of the job-spec? I am 35 and 99 kilos."
+                    ]
+                },
+                {
+                    "candidates": [
+                        "@AppleSupport after the 11.0.2 my phone just sucks most of the apps are broken, wifi disconnects frequently #apple #ios1102 #painfulupdate",
+                        "@76501 I guess this means free cable for the neighborhood. (URL",
+                        "Got id's @Tesco for buying one Adnams Broadside. Is being blind part of the job-spec? I am 35 and 99 kilos.",
+                        "@Tesco Will I lose all the shopping I've done if I delete the cache/cookies (not using app?",
+                        "@105852 Are you experiencing an issue with your device? If so, DM us with what's going on. We'll see how we can help from there. (URL",
+                        "@105852 Are you experiencing an issue with your device? If so, DM us with what's going on. We'll see how we can help from there. (URL",
+                        "@SouthwestAir I am! Thank you for the answer!!",
+                        "@SpotifyCares i've been having issues with playback. songs have been stopping midway through and won't restart unless i close and reopen app",
+                        "@105857 Is there a particular app that seems to cause these issues more than others? What model iPhone are you using? Join us in DM. (URL",
+                        "@105844 Thanks for reaching out to us. We are always happy to help. Send us a DM so we can look into this together. (URL",
+                        "@105855 Hi Thomas, this is correct but this helps our store colleagues judge age and protect them from making underage sales. Amanda"
+                    ],
+                    "history": [
+                        "Got id's @Tesco for buying one Adnams Broadside. Is being blind part of the job-spec? I am 35 and 99 kilos.",
+                        "@105855 Hi Thomas, we operate a Think 25 policy at our stores. I'd be flattered to be ID'd.  - Helena",
+                        "@Tesco Uk offlicense law is 18. Not 25"
+                    ]
+                },
+                {
+                    "candidates": [
+                        "@105851 We'd like to provide some assistance with this. Tell us more about the issue you're experiencing in DM. We'll go from there. (URL",
+                        "@105851 We'd like to provide some assistance with this. Tell us more about the issue you're experiencing in DM. We'll go from there. (URL",
+                        "@AppleSupport hi #apple, I\u2019ve a concern about the latest ios is too slow on #iphone6 and i am not happy with it. Any solution please?",
+                        "@105852 Are you experiencing an issue with your device? If so, DM us with what's going on. We'll see how we can help from there. (URL",
+                        "@O2 I received this a few weeks ago, since then I've been getting 2/3 calls a day from a telemarketer. Is someone using your name? (URL",
+                        "Got id's @Tesco for buying one Adnams Broadside. Is being blind part of the job-spec? I am 35 and 99 kilos.",
+                        "@Ask_Spectrum It's just in my yard. I've called 4-5 times in 6 weeks. I'm not a customer but it's pretty tempting. I do have some coaxial",
+                        "@AppleSupport I need a new code for my I-store. I haven\u2019t recd any but msg is too many sent. Help!",
+                        "@105854 I am sorry for the poor experience. Can you please DM the full service address and name on the account, as we ass... (URL",
+                        "@105842 Very sorry to hear this. We hope you get everything sorted. Kind Regards ^Jools",
+                        "@105855 Hi Thomas, if a colleague believes the person buying alcohol looks under 25, they will be challenged for ID to prove they're of age. - Paige"
+                    ],
+                    "history": [
+                        "Got id's @Tesco for buying one Adnams Broadside. Is being blind part of the job-spec? I am 35 and 99 kilos.",
+                        "@105855 Hi Thomas, we operate a Think 25 policy at our stores. I'd be flattered to be ID'd.  - Helena",
+                        "@Tesco Uk offlicense law is 18. Not 25",
+                        "@105855 Hi Thomas, this is correct but this helps our store colleagues judge age and protect them from making underage sales. Amanda",
+                        "@Tesco The point is if it's enforced they do it properly or they don't. Plus take some common-sense and think does that person look over 18?"
+                    ]
+                }
+            ]
+        }
+    ],
+    "valid": [
+        {
+            "personality": [
+                "Tesco"
+            ],
+            "utterances": [
+                {
+                    "candidates": [
+                        "@105842 Very sorry to hear this. We hope you get everything sorted. Kind Regards ^Jools",
+                        "@105855 Hi Thomas, this is correct but this helps our store colleagues judge age and protect them from making underage sales. Amanda",
+                        "@AppleSupport after the 11.0.2 my phone just sucks most of the apps are broken, wifi disconnects frequently #apple #ios1102 #painfulupdate",
+                        "@105844 Thanks for reaching out to us. We are always happy to help. Send us a DM so we can look into this together. (URL",
+                        "@AppleSupport hi #apple, I\u2019ve a concern about the latest ios is too slow on #iphone6 and i am not happy with it. Any solution please?",
+                        "@105858 Hi Agoura, thanks for tweeting. Please refer to this article: (URL &amp; click the link to reply back. ^Rashmi (URL",
+                        "@105857 Is there a particular app that seems to cause these issues more than others? What model iPhone are you using? Join us in DM. (URL",
+                        "@105841 We'd love to help! Please DM us and let us know any steps you've tried since experiencing these behaviors. (URL",
+                        "@105854 I am sorry for the poor experience. Can you please DM the full service address and name on the account, as we ass... (URL",
+                        "@AppleSupport causing the reply to be disregarded and the tapped notification under the keyboard is opened",
+                        "@105856 Hi there, could you try deleting your cache and cookies and reinstalling the app if using it? This should fix the issue  - Dani"
+                    ],
+                    "history": [
+                        "Hey @Tesco, your website's broken. It's telling me there are no delivery slots for the next 3 weeks, which I find slightly unlikely."
+                    ]
+                },
+                {
+                    "candidates": [
+                        "@SpotifyCares Thanks! Version 8.4.22.857 armv7 on anker bluetooth speaker on Samsung Galaxy Tab A (2016 Model SM-T280 Does distance from speaker matter?",
+                        "@HPSupport Problem with printhead Serial# TH536D1HN #hpcswus #hpprnt",
+                        "@AppleSupport I need a new code for my I-store. I haven\u2019t recd any but msg is too many sent. Help!",
+                        "@AppleSupport after the 11.0.2 my phone just sucks most of the apps are broken, wifi disconnects frequently #apple #ios1102 #painfulupdate",
+                        "@O2 I received this a few weeks ago, since then I've been getting 2/3 calls a day from a telemarketer. Is someone using your name? (URL",
+                        "@105856 Hi there, as long as you sign out of your account prior to deleting your cache &amp; cookies, you'll still have a full basket  Thanks - Mike",
+                        "@British_Airways Thanks for your answer. Response onsite was that Aircraft will not depart today, so rebooking to @105853 with now 4h delay...",
+                        "@105855 Hi Thomas, we operate a Think 25 policy at our stores. I'd be flattered to be ID'd.  - Helena",
+                        "@Tesco The point is if it's enforced they do it properly or they don't. Plus take some common-sense and think does that person look over 18?",
+                        "@Tesco Uk offlicense law is 18. Not 25",
+                        "@105856 Hi there, as long as you sign out of your account prior to deleting your cache &amp; cookies, you'll still have a full basket  Thanks - Mike"
+                    ],
+                    "history": [
+                        "Hey @Tesco, your website's broken. It's telling me there are no delivery slots for the next 3 weeks, which I find slightly unlikely.",
+                        "@105856 Hi there, could you try deleting your cache and cookies and reinstalling the app if using it? This should fix the issue  - Dani",
+                        "@Tesco Will I lose all the shopping I've done if I delete the cache/cookies (not using app?"
+                    ]
+                },
+                {
+                    "candidates": [
+                        "@AppleSupport causing the reply to be disregarded and the tapped notification under the keyboard is opened",
+                        "@Tesco Maybe hire colleagues who can see?",
+                        "@Tesco The point is if it's enforced they do it properly or they don't. Plus take some common-sense and think does that person look over 18?",
+                        "@AppleSupport Latest version  I have read the help page turned off virtually all apps and location svs too - but in typing this I dropped 3% life",
+                        "@SouthwestAir I am! Thank you for the answer!!",
+                        "@SpotifyCares It's on a Macbook Air (early 2014, running High Sierra, spotify version 1.0.65.320.gac7a8e02",
+                        "@SpotifyCares Thanks! Version 8.4.22.857 armv7 on anker bluetooth speaker on Samsung Galaxy Tab A (2016 Model SM-T280 Does distance from speaker matter?",
+                        "You\u2019ve paralysed my phone with your update @76099 grrrrrrrrrr",
+                        "@105851 We'd like to provide some assistance with this. Tell us more about the issue you're experiencing in DM. We'll go from there. (URL",
+                        "@105837 We can help. Which version of iOS are you on? You can find that in Settings > General > About. Reply in DM. (URL",
+                        "@105856 Can you DM me your full name, address and email? I'd be happy to look into this further for you  Thanks - Mike"
+                    ],
+                    "history": [
+                        "Hey @Tesco, your website's broken. It's telling me there are no delivery slots for the next 3 weeks, which I find slightly unlikely.",
+                        "@105856 Hi there, could you try deleting your cache and cookies and reinstalling the app if using it? This should fix the issue  - Dani",
+                        "@Tesco Will I lose all the shopping I've done if I delete the cache/cookies (not using app?",
+                        "@105856 Hi there, as long as you sign out of your account prior to deleting your cache &amp; cookies, you'll still have a full basket  Thanks - Mike",
+                        "@Tesco Done all that. Still telling me there are no delivery slots whatsoever."
+                    ]
+                }
+            ]
+        },
+        {
+            "personality": [
+                "AppleSupport"
+            ],
+            "utterances": [
+                {
+                    "candidates": [
+                        "@105851 We'd like to provide some assistance with this. Tell us more about the issue you're experiencing in DM. We'll go from there. (URL",
+                        "@105842 I appreciate it's after 150 now, so hopefully you will depart very soon. We're sorry for any inconvenience the delay has caused. 2/2 ^JR",
+                        "@105850 Once the points load and you hit the number, you get it immediately! You'll even receive a congrats email. Are you almost there? ^AC",
+                        "@AppleSupport Latest version  I have read the help page turned off virtually all apps and location svs too - but in typing this I dropped 3% life",
+                        "@105850 Once the points load and you hit the number, you get it immediately! You'll even receive a congrats email. Are you almost there? ^AC",
+                        "@105840 You're welcome! If there's anything else we can help with, just give us a shout. We're here for you  /CP",
+                        "@105848 Let's take a look. What is the exact iOS you're using? Are you using any specific apps when noticing this? DM us your reply. (URL",
+                        "@SpotifyCares i've been having issues with playback. songs have been stopping midway through and won't restart unless i close and reopen app",
+                        "@AppleSupport hi #apple, I\u2019ve a concern about the latest ios is too slow on #iphone6 and i am not happy with it. Any solution please?",
+                        "@southwestair Just curious....will I get the companion pass the exact moment I get enough points? It will I have to wait? Thanks!",
+                        "@105857 We'd like to help if we can. When did this start happening? Which version of iOS are you running currently?"
+                    ],
+                    "history": [
+                        "My apps stop working without warning and my phone freezes every five minutes! Love the new update @76099!!!!"
+                    ]
+                },
+                {
+                    "candidates": [
+                        "@105857 Is there a particular app that seems to cause these issues more than others? What model iPhone are you using? Join us in DM. (URL",
+                        "Hey @Tesco, your website's broken. It's telling me there are no delivery slots for the next 3 weeks, which I find slightly unlikely.",
+                        "@105840 Thanks. The distance could possibly affect playback. Does logging out > restarting your device > logging back in make a difference? /AY",
+                        "@British_Airways Thanks for your answer. Response onsite was that Aircraft will not depart today, so rebooking to @105853 with now 4h delay...",
+                        "@82476 \ud83e\udd14 We'd like to help Sam, which number is calling you? Please DM us more info so we can advise further. (URL",
+                        "@105842 Very sorry to hear this. We hope you get everything sorted. Kind Regards ^Jools",
+                        "@SpotifyCares problem has come back again today. is there some kind of bug?",
+                        "@105856 Can you DM me your full name, address and email? I'd be happy to look into this further for you  Thanks - Mike",
+                        "@105840 You're welcome! If there's anything else we can help with, just give us a shout. We're here for you  /CP",
+                        "@SpotifyCares seems to be working at this stage. Will let you know if it happens again. Cheers",
+                        "@105857 Is there a particular app that seems to cause these issues more than others? What model iPhone are you using? Join us in DM. (URL"
+                    ],
+                    "history": [
+                        "My apps stop working without warning and my phone freezes every five minutes! Love the new update @76099!!!!",
+                        "@105857 We'd like to help if we can. When did this start happening? Which version of iOS are you running currently?",
+                        "@AppleSupport I have the latest version iOS. It started immediately after I updated my phone."
+                    ]
+                }
+            ]
+        },
+        {
+            "personality": [
+                "HPSupport"
+            ],
+            "utterances": [
+                {
+                    "candidates": [
+                        "@105857 Is there a particular app that seems to cause these issues more than others? What model iPhone are you using? Join us in DM. (URL",
+                        "@105842 We're sorry your flight has been delayed, Beatner. Are you travelling on the BA8733? If so, the updated departure time we have is 150. 1/2",
+                        "@AppleSupport causing the reply to be disregarded and the tapped notification under the keyboard is opened",
+                        "@105854 I am sorry for the poor experience. Can you please DM the full service address and name on the account, as we ass... (URL",
+                        "@Tesco Maybe hire colleagues who can see?",
+                        "@105837 We can help. Which version of iOS are you on? You can find that in Settings > General > About. Reply in DM. (URL",
+                        "@Ask_Spectrum It's just in my yard. I've called 4-5 times in 6 weeks. I'm not a customer but it's pretty tempting. I do have some coaxial",
+                        "@105856 Hi there, as long as you sign out of your account prior to deleting your cache &amp; cookies, you'll still have a full basket  Thanks - Mike",
+                        "@105850 Once the points load and you hit the number, you get it immediately! You'll even receive a congrats email. Are you almost there? ^AC",
+                        "@SpotifyCares No, but I've moved speaker to about 1 metre away and it's not skipping at the mo - it was about 3 or 4 metres away before. Fingers crossed!",
+                        "@105858 Hi Agoura, thanks for tweeting. Please refer to this article: (URL &amp; click the link to reply back. ^Rashmi (URL"
+                    ],
+                    "history": [
+                        "@HPSupport Problem with printhead Serial# TH536D1HN #hpcswus #hpprnt"
+                    ]
+                }
+            ]
+        }
+    ]
+}

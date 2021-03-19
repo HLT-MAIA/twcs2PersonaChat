@@ -102,7 +102,10 @@ def rebuild_conversations(boc_df, dataframe):
                 Utterance(speaker, text)
                 for speaker, text in zip(replies["author_id"], replies["text"])
             ]
-            current_tweet = replies.iloc[-1]
+            try:
+                current_tweet = replies.iloc[-1]
+            except IndexError:
+                break
 
         brand_mentions = get_brand_mentions(
             "\n".join([utterance.text for utterance in conversation.utterances])
@@ -170,11 +173,11 @@ def generate_personachat_json(
         if len(entries) == limit:
             break
 
-        entry = {"personality": [], "utterances": []}
+        entry = {"personality": [conversation.brand], "utterances": []}
         utterances = []
 
         for i in range(1, len(conversation.utterances)):
-            if conversation.utterances[i].speaker == "XboxSupport":
+            if conversation.utterances[i].speaker == conversation.brand:
                 dic = {
                     "candidates": [],
                     "history": [
@@ -199,11 +202,13 @@ def generate_personachat_json(
         json.dump(final_dic, outfile, indent=4)
 
 
-def personify(df, filename, brand, limit):
+def personify(in_filename, out_filename, brand, limit):
+    df = pd.read_csv(in_filename)
+
     boc_df = get_begin_of_conversation(df)
     if brand:
         conversations = rebuild_conversations(filter_brand_bocs(boc_df, brand), df)
     else:
         conversations = rebuild_conversations(boc_df, df)
 
-    generate_personachat_json(conversations, filename, limit)
+    generate_personachat_json(conversations, out_filename, limit)
